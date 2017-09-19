@@ -273,7 +273,8 @@ tbody td:first-child {
 }
 /*************contenido del footer*/
 #footer{
-    margin-top: 4%;
+    width: 80%;
+    margin-top: 14%;
 }
 footer a {
   color: #999;
