@@ -234,7 +234,7 @@ header nav .signin:hover, .btn:hover {
 }
 
 table {
-  width: 80%;
+  width: 70%;
   margin-top: 20px;
   text-align: center;
   text-align: center;
@@ -312,6 +312,7 @@ footer > ul > li {
   width: 25%;
 }
 /*opciones y adicioneles*/
+
 #lang-selection {
   margin-top: 20px;
   border: 1px solid #333;
